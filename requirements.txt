@@ -1,0 +1,4 @@
+dash
+gunicorn
+pandas  # si usas pandas
+plotly  # si usas gráficas de plotly
